@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5754c1eb-6fdb-40e3-8afe-be2a38f4631b/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/MathAlgs",
+    "appService.deploySubpath": "publish"
+}
